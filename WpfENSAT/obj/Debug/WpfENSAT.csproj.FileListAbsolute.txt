@@ -1,0 +1,14 @@
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\bin\Debug\WpfENSAT.exe.config
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\bin\Debug\WpfENSAT.exe
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\bin\Debug\WpfENSAT.pdb
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.csprojAssemblyReference.cache
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\obj\Debug\MainWindow.baml
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\obj\Debug\MainWindow.g.cs
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\obj\Debug\App.g.cs
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT_MarkupCompile.cache
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.g.resources
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.Properties.Resources.resources
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.csproj.GenerateResource.cache
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.csproj.CoreCompileInputs.cache
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.exe
+C:\Users\Pavilion\source\repos\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.pdb
